@@ -1,6 +1,6 @@
 # fractal
 
-##usage:
+## usage:
 
 `make` first
 
